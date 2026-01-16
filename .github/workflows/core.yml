@@ -43,7 +43,7 @@ jobs:
         run: go install cogentcore.org/core@main && core setup
 
       - name: Build Sims
-        run: core build book-web -o static
+        run: core build -o static
 
       - name: Setup Pages
         id: pages
