@@ -1,2 +1,4 @@
 # book-web
-website for CCN book, hosted at book.compcogneuro.org
+
+Website for CCN textbook, hosted at https://book.compcogneuro.org
+
