@@ -42,7 +42,7 @@ jobs:
       - name: Install Core
         run: go install cogentcore.org/core@main && core setup
 
-      - name: Build Sims
+      - name: Build App
         run: core build -o static
 
       - name: Setup Pages
