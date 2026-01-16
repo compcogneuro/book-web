@@ -43,7 +43,7 @@ jobs:
         run: go install cogentcore.org/core@main && core setup
 
       - name: Build App
-        run: core build -o static
+        run: core build web -o static
 
       - name: Setup Pages
         id: pages
