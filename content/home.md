@@ -29,7 +29,7 @@ This book is available for download in a variety of formats:
 
 This is an open source textbook, available on [GitHub](https://github.com/compcogneuro/book).
 
-Copyright © 2024 Randall C. O'Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy, and Contributors
+Copyright © 2024 Randall C. O'Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy, and [[Contributors]]
 
 All rights reserved. Licensed under [CC-BY-4.0](https://github.com/compcogneuro/book/blob/main/LICENSE).
 
